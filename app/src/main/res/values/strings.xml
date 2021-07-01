@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ProyectoFinGradoRecetero</string>
+    <string name="texto_informacion">Esta aplicación te ayudará a llevar una dieta
+    más saludable a través de una ayuda constante para elegir qué receta hacer en
+    cada momento.
+    \nDesde El Recetario, sabemos que a día de hoy no se tiene el tiempo suficiente
+    para hacer un descanso o pararte a pensar en qué vas a comer o planificar cuál
+    es la opción que te ayudará a perder esos kg de más o definir tu cuerpo. Por esta
+    razón te proponemos una solución rápida y fácil, además de gratuita, que mejorará
+    tu físico y tu salud mental y física.
+
+    \n\nDesarrollador: Alejandro Exposito Ortiz
+    \nCorreo de contacto: 122bd08@gmail.com</string>
 </resources>
